@@ -5,7 +5,7 @@ application up and running.
 
 Coder Manual Project Application
 Subscription-based web application
-https://codermanual.com
+https://codermanual.comgit 
 
 
 Things you may want to cover:
